@@ -1,0 +1,7 @@
+D:\Rohitha\c sharp\callbyvalue\callbyvalue\obj\Debug\callbyvalue.csprojResolveAssemblyReference.cache
+D:\Rohitha\c sharp\callbyvalue\callbyvalue\obj\Debug\callbyvalue.csproj.CoreCompileInputs.cache
+D:\Rohitha\c sharp\callbyvalue\callbyvalue\bin\Debug\callbyvalue.exe.config
+D:\Rohitha\c sharp\callbyvalue\callbyvalue\bin\Debug\callbyvalue.exe
+D:\Rohitha\c sharp\callbyvalue\callbyvalue\bin\Debug\callbyvalue.pdb
+D:\Rohitha\c sharp\callbyvalue\callbyvalue\obj\Debug\callbyvalue.exe
+D:\Rohitha\c sharp\callbyvalue\callbyvalue\obj\Debug\callbyvalue.pdb
